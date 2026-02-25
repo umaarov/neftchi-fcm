@@ -1,0 +1,13 @@
+{
+  "name": "umarov/fcneftchi-news-poller",
+  "description": "poller",
+  "type": "project",
+  "require": {
+    "kreait/firebase-php": "^7.0",
+    "ext-json": "*"
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "sort-packages": true
+  }
+}
